@@ -27,3 +27,12 @@ You can click the Preview link to take a look at your changes.
 6.https://github.com/Alinshans/MyTinySTL
 7.https://github.com/taylorconor/tinytetris
 8.https://github.com/microsoft/calculator
+
+
+对于网址1，现在完成了环境搭建，也正式运行了。被墙给卡住了实在是丢人。不过应该会好起来的吧~
+现在我想我可以分析一下框架了：使用cmake管理头文件，整个项目还算清晰。我现在需要看看各个文件是完成什么样的功能。
+该怎么开始呢。我给我5h 来理解这个项目。真怕自己去玩游戏回不来了hhhh
+
+
+
+
