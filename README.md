@@ -34,5 +34,9 @@ You can click the Preview link to take a look at your changes.
 该怎么开始呢。我给我5h 来理解这个项目。真怕自己去玩游戏回不来了hhhh
 
 
+那么对于网址2，是一个面向初学者的全部基础教程，里面每一个配置文件都可以详细去学习。
+
+
+
 
 
